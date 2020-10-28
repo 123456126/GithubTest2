@@ -1,0 +1,53 @@
+一些常用属性问题：
+font及其衍生属性
+text及其衍生属性
+border及其衍生属性
+list-style及其衍生属性
+outline及其衍生属性
+anchor伪类用法
+flex及其衍生
+伪类选择器  :focus及其衍生用法 
+outline及其衍生用法
+scope属性 headers属性 id属性 rowgroups属性
+@font-face规则（注:@规则的使用）
+link 标签中的rel属性
+width属性中的cal()方法
+transform属性中的rotate()方法
+max min及其衍生的用法与不同
+inline-size与block-size的区别
+---------------------------------------------------------------------
+其他问题：
+①如何去除继承父类的相关属性
+②块级元素与内联元素的区别，inline-block用法
+③为什么使用inherit继承父类元素候用，样式加重
+④如何将控制disabled修饰的标签，即可以将标签成为可输入的
+⑤设置边距的单位，如 % px em .em -em 纯数字有什么区别
+⑥css中使用image导入的图片如何进行等比例的放大或缩小
+⑦css中导入图片的image与img标签的不同之处
+⑧css中如何设置文本内容由下往上写
+⑨滚动条有时不生效，是与文本内容的排列顺序有关吗？
+⑩css样式中样式前后顺序有无什么规定？无法生效之类的？
+---------------------------------------------------------------------
+常用属性：
+transform
+apperarance
+box-sizing
+padding
+outline
+overflow
+vertical-align
+white-space
+text-overflow
+content
+z-index
+list-style
+margin
+min-width
+max-height
+overflow-y
+overflow-x
+max-height
+visibility
+position
+display
+outline

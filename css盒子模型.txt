@@ -1,0 +1,19 @@
+display：
+block转换成块级元素，即换行
+inline转换成行内元素，即不换行
+none即隐藏标签
+inline-block 成行排布，但可设置width和height
+相关概念：
+width和height用来控制内容大小
+padding指内容与边框的距离
+border指边框的样式
+margin指与其他元素间的样式（允许负值）
+box-sizing:border-box指将padding与border加入到width与height
+margin与border只设置一个，如margin-top
+background-repeat背景平铺（repeat-x repeat-y no-repeat）
+background-position ()
+overflow属性为溢出内容设置滚动条
+渐变背景
+背景附加：scroll背景动 fixed 背景不动（background-attachment）
+圆角属性：border-radius
+设置背景颜色透明度：opacity设置属性透明百分比
